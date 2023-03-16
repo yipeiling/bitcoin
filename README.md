@@ -2,8 +2,8 @@
 A bitcoin data analysis experiments
 
 1.Create a bar chart showing the number of transactions for each month that occurred between the beginning and end of the data set. and analyze general trends in Bitcoin usage
-<div align="center">
-<img src=time.png  width=50% />
+<div align="left">
+<img src=time.png  width=40% />
 </div>
 
 
