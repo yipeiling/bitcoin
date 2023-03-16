@@ -25,6 +25,6 @@ A bitcoin data analysis experiments
 </div>
 
 5. Ransomware often gets victims to pay via bitcoin. Find wallet IDs involved in such attacks.
-Since  the Ransomware started around 2012, then increase from 2017.It is difficult to find them due to our data range(2009-2014). So I only found one publicKey looks like scam.  
+the Ransomware started around 2012, then increase from 2017.It is difficult to find them due to our data range(2009-2014). So I only found one publicKey looks like scam.  
 {17CzqBcwuB1aJTWEkJwhNYQuat3kKEoumE}"[0.92701449, 33]
 
