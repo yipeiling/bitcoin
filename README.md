@@ -27,6 +27,9 @@ A bitcoin data analysis experiments
 5. Ransomware typically asks victims to pay via Bitcoin. Ransomware started around 2012 and increased from 2017 onwards. Due to the range of our data (2009-2014), it was difficult to find them. However, an account with typical characteristics was found.  {17CzqBcwuB1aJTWEkJwhNYQuat3kKEoumE}"[0.92701449, 33]
 
 •	in a short time, many transactions , and the amount is small.
-•	the total amount is small , mostly no more than 10 bitcoins, so the bitcoins would stream out quickly ,never left in the account.
+
+•	the total amount is small , mostly no more than 10 bitcoins.
+
+•	the bitcoins would stream out quickly ,never left in the account.
 
 
