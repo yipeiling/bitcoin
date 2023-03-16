@@ -2,7 +2,7 @@
 A bitcoin data analysis experiments
 
 1.Create a bar chart showing the number of transactions for each month that occurred between the beginning and end of the data set. and analyze general trends in Bitcoin usage
-![alt Image text](time.png width="100" height="100")
+![Image](time.png width="100" height="100")
 
 2.Obtain the top 10 donors over the whole dataset for the Wikileaks bitcoin address: {1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v}.
 ![Image](donors.png)
