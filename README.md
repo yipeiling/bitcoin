@@ -8,6 +8,7 @@ A bitcoin data analysis experiments
 ![alt Image text](donors.png)
 
 3.Explore how much of BTC is used as a means of exchange (small transactions) as opposed to long term investment (Parked coins or large purchases)
-![alt Image text](invest.png)
+![alt Image text](Invest.png)
 
 4.Identify different types of users e.g."whales" (volume trader/"hodler" of BTC), merchant accepting BTCs, or possibly criminal organizations.
+![alt Image text](type.png)
