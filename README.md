@@ -16,11 +16,13 @@ A bitcoin data analysis experiments
 
 3.Explore how much of BTC is used as a means of exchange (small transactions) as opposed to long term investment (Parked coins or large purchases)
 <div align="left">
-<img src=donors.png  width=40% />
+<img src=Invest.png  width=40% />
 </div>
 
 4.Identify different types of users e.g."whales" (volume trader/"hodler" of BTC), merchant accepting BTCs, or possibly criminal organizations.
-![alt Image text](type.png)
+<div align="left">
+<img src=type.png  width=40% />
+</div>
 
 5. Ransomware often gets victims to pay via bitcoin. Find wallet IDs involved in such attacks.
 Since  the Ransomware started around 2012, then increase from 2017.It is difficult to find them due to our data range(2009-2014). So I only found one publicKey looks like scam.  
