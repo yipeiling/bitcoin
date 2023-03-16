@@ -5,7 +5,7 @@ A bitcoin data analysis experiments
 ![alt Image text](time.png width="100" height="100")
 
 2.Obtain the top 10 donors over the whole dataset for the Wikileaks bitcoin address: {1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v}.
-![alt Image text](donors.png)
+![Image](donors.png)
 
 3.Explore how much of BTC is used as a means of exchange (small transactions) as opposed to long term investment (Parked coins or large purchases)
 ![alt Image text](Invest.png)
